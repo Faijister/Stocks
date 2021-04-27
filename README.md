@@ -9,7 +9,7 @@
 		a. raw数据
 		b. 分析方法
 		c. 挖掘出来的数据
-	4. 使用 Mac Mini  m1做平台 （操作系统：Mac OS Big Sur）
+	4. 使用 Mac Mini m1做平台 （操作系统：Mac OS Big Sur）
 		a. m1 CPU 使用前沿的神经网络引擎，更将机器学习速度最高提升到了 15 倍
 		b. 内核为Linux，对 emacs/python/shell 友好
 		c. 256 SSD 可能需要外接扩展硬盘
