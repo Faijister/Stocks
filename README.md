@@ -2,7 +2,7 @@
 	1. python 做数据爬虫+分析挖掘 （需要搭建Python环境） or go lang
 		a. 学习Python 相关库
 		b. 学习Github资源
-	2. emacs 编辑器 （需要搭建emacs环境）
+	2. emacs 编辑器 （需要搭建emacs环境 - 已经搭建好）
 		a. 作为python源代码/IDE
 		b. git client 端 （需要从github拉取学习资源）
 	3. 数据库 （待选 mysql？）
