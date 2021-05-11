@@ -2,4 +2,6 @@
 
 * Library
  ** yfinance -> yf
+ https://github.com/ranaroussi/yfinance
  ** pandas   -> pd
+ https://github.com/pandas-dev/pandas
