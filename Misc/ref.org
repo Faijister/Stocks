@@ -1,0 +1,5 @@
+#+TITLE: Reference
+#+DESCRIPTION: Learning materia
+* Blog
+** Automating Stock Analysis Using Python
+   https://medium.com/automated-trading/a-guide-to-automating-your-stock-analysis-with-python-4b6929e54201
