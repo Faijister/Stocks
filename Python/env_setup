@@ -1,0 +1,19 @@
+# python module
+
+fanny@FannydeMac-mini ~ % python3
+Python 3.8.2 (default, Apr  8 2021, 23:19:18)
+[Clang 12.0.5 (clang-1205.0.22.9)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import yfinance as yf
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ModuleNotFoundError: No module named 'yfinance'
+
+
+-> install yfinance with pip
+https://pypi.org/project/yfinance/
+
+fanny@FannydeMac-mini ~ % sudo -i
+FannydeMac-mini:~ root# export http_proxy="http://127.0.0.1:8001"; export HTTP_PROXY="http://127.0.0.1:8001"; export https_proxy="http://127.0.0.1:8001"; export HTTPS_PROXY="http://127.0.0.1:8001"
+FannydeMac-mini:~ root# pip3 install yfinance
+-> pandas version mismatch (need more trouble shooting)

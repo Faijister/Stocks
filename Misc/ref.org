@@ -3,3 +3,9 @@
 * Blog
 ** Automating Stock Analysis Using Python
    https://medium.com/automated-trading/a-guide-to-automating-your-stock-analysis-with-python-4b6929e54201
+** 利用python爬虫分析基金、股票
+   https://zhuanlan.zhihu.com/p/105526442
+*** 天天基金网
+   http://fund.eastmoney.com/data/fundranking.html#tall;c0;r;szzf;pn50;ddesc;qsd20181126;qed20191126;qdii;zq;gg;gzbd;gzfs;bbzt;sfbb
+**** 广发港股通优质增长混合（006595）
+   http://fund.eastmoney.com/006595.html?spm=search

@@ -5,3 +5,11 @@
  https://github.com/ranaroussi/yfinance
  ** pandas   -> pd
  https://github.com/pandas-dev/pandas
+ ** requests
+ https://pypi.org/project/requests
+ ** lxml
+ https://lxml.de
+ ** selenium
+ https://selenium-python.readthedocs.io/
+ ** PyMongo
+ https://pymongo.readthedocs.io/en/stable/#
