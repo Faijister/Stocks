@@ -18,6 +18,13 @@ FannydeMac-mini:~ root# export http_proxy="http://127.0.0.1:8001"; export HTTP_P
 FannydeMac-mini:~ root# pip3 install yfinance
 -> pandas version mismatch (need more trouble shooting)
 
+-> ANACONDA
+https://www.anaconda.com/
+
+-> Install pandas on Mac need sudo
+Python packages are installed in the operating systems file system where not all users have permission to write files to.
+Means when do the pip install, some files need to write to folders that need root permission.
+
 
 Windows (PC)
 PS C:\Users\efuuxii> python
