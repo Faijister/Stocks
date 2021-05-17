@@ -17,3 +17,13 @@ fanny@FannydeMac-mini ~ % sudo -i
 FannydeMac-mini:~ root# export http_proxy="http://127.0.0.1:8001"; export HTTP_PROXY="http://127.0.0.1:8001"; export https_proxy="http://127.0.0.1:8001"; export HTTPS_PROXY="http://127.0.0.1:8001"
 FannydeMac-mini:~ root# pip3 install yfinance
 -> pandas version mismatch (need more trouble shooting)
+
+
+Windows (PC)
+PS C:\Users\efuuxii> python
+Python 3.9.1 (tags/v3.9.1:1e5d33e, Dec  7 2020, 17:08:21) [MSC v.1927 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import pandas
+>>> pandas.__version__
+'1.2.3'
+>>>
